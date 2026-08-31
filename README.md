@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mounees-321/DSA_problems/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Mounees-321/DSA_problems/tree/master/0031-next-permutation) |
+| [0485-max-consecutive-ones](https://github.com/Mounees-321/DSA_problems/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
