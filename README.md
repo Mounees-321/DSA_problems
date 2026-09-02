@@ -23,4 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mounees-321/DSA_problems/tree/master/0009-palindrome-number) |
+| [0808-soup-servings](https://github.com/Mounees-321/DSA_problems/tree/master/0808-soup-servings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0808-soup-servings](https://github.com/Mounees-321/DSA_problems/tree/master/0808-soup-servings) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0808-soup-servings](https://github.com/Mounees-321/DSA_problems/tree/master/0808-soup-servings) |
 <!---LeetCode Topics End-->
