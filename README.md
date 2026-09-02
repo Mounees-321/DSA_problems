@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mounees-321/DSA_problems/tree/master/0009-palindrome-number) |
+| [0171-excel-sheet-column-number](https://github.com/Mounees-321/DSA_problems/tree/master/0171-excel-sheet-column-number) |
 | [0808-soup-servings](https://github.com/Mounees-321/DSA_problems/tree/master/0808-soup-servings) |
 ## Dynamic Programming
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/Mounees-321/DSA_problems/tree/master/0808-soup-servings) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/Mounees-321/DSA_problems/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
