@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mounees-321/DSA_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mounees-321/DSA_problems/tree/master/0031-next-permutation) |
 | [0485-max-consecutive-ones](https://github.com/Mounees-321/DSA_problems/tree/master/0485-max-consecutive-ones) |
+| [0860-lemonade-change](https://github.com/Mounees-321/DSA_problems/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Mounees-321/DSA_problems/tree/master/0191-number-of-1-bits) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/Mounees-321/DSA_problems/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
