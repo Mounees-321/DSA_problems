@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mounees-321/DSA_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mounees-321/DSA_problems/tree/master/0031-next-permutation) |
 | [0128-longest-consecutive-sequence](https://github.com/Mounees-321/DSA_problems/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Mounees-321/DSA_problems/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Mounees-321/DSA_problems/tree/master/0485-max-consecutive-ones) |
 | [0860-lemonade-change](https://github.com/Mounees-321/DSA_problems/tree/master/0860-lemonade-change) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mounees-321/DSA_problems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Mounees-321/DSA_problems/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Mounees-321/DSA_problems/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mounees-321/DSA_problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Mounees-321/DSA_problems/tree/master/0191-number-of-1-bits) |
 ## Greedy
 |  |
@@ -57,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mounees-321/DSA_problems/tree/master/0128-longest-consecutive-sequence) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mounees-321/DSA_problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mounees-321/DSA_problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mounees-321/DSA_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
