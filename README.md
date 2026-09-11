@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Mounees-321/DSA_problems/tree/master/0009-palindrome-number) |
 | [0171-excel-sheet-column-number](https://github.com/Mounees-321/DSA_problems/tree/master/0171-excel-sheet-column-number) |
+| [0367-valid-perfect-square](https://github.com/Mounees-321/DSA_problems/tree/master/0367-valid-perfect-square) |
 | [0808-soup-servings](https://github.com/Mounees-321/DSA_problems/tree/master/0808-soup-servings) |
 ## Dynamic Programming
 |  |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Mounees-321/DSA_problems/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Mounees-321/DSA_problems/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
