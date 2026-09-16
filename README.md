@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mounees-321/DSA_problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mounees-321/DSA_problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Mounees-321/DSA_problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mounees-321/DSA_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mounees-321/DSA_problems/tree/master/0031-next-permutation) |
 | [0078-subsets](https://github.com/Mounees-321/DSA_problems/tree/master/0078-subsets) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Mounees-321/DSA_problems/tree/master/0014-longest-common-prefix) |
 | [0171-excel-sheet-column-number](https://github.com/Mounees-321/DSA_problems/tree/master/0171-excel-sheet-column-number) |
 ## Bit Manipulation
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mounees-321/DSA_problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mounees-321/DSA_problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
