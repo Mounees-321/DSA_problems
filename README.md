@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Mounees-321/DSA_problems/tree/master/0198-house-robber) |
 | [0455-assign-cookies](https://github.com/Mounees-321/DSA_problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mounees-321/DSA_problems/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Mounees-321/DSA_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/Mounees-321/DSA_problems/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/Mounees-321/DSA_problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mounees-321/DSA_problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mounees-321/DSA_problems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Mounees-321/DSA_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mounees-321/DSA_problems/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Mounees-321/DSA_problems/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mounees-321/DSA_problems/tree/master/0100-same-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Mounees-321/DSA_problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
