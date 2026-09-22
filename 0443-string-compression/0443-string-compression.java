@@ -15,20 +15,11 @@ class Solution {
                 
                 if(cur_cnt>1)
                 {
-                    int nod = (int)Math.log10(cur_cnt)+1;
-                    int temp = nod;
-                    
-                    while(nod!=0)
-                    {
-                        int val = cur_cnt%10;
-                        System.out.println("fuck"+(nod+left-1));
-                        chars[nod+left-1] = (char)('0' + val);
-                        //System.out.println(chars[(nod+left-1)]);
-                        cur_cnt/=10;  
-                        nod--;
-                    }
+                    String count = String.valueOf(cur_cnt);
 
-                    left +=temp;
+                for (char c : count.toCharArray()) {
+                    chars[left++] = c;
+}
                 }
                 fix = j;
                 cur_cnt=1;
@@ -38,17 +29,11 @@ class Solution {
         chars[left++] = chars[fix];
                 
                 if(cur_cnt>1)
-                {  int nod = (int)Math.log10(cur_cnt)+1;
-                    int temp = nod;
-                    while(nod!=0)
-                    {
-                        int val = cur_cnt%10;
-                        chars[nod+left-1] = (char)('0' + val);
-                        cur_cnt/=10;  
-                        nod--;
-                    }
+                {  String count = String.valueOf(cur_cnt);
 
-                    left +=temp;
+                    for (char c : count.toCharArray()) {
+                        chars[left++] = c;
+}
                 }
         return left;
     }
