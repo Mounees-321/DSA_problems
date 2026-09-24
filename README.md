@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mounees-321/DSA_problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mounees-321/DSA_problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Mounees-321/DSA_problems/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Mounees-321/DSA_problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mounees-321/DSA_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mounees-321/DSA_problems/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Mounees-321/DSA_problems/tree/master/0053-maximum-subarray) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mounees-321/DSA_problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Mounees-321/DSA_problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mounees-321/DSA_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mounees-321/DSA_problems/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Mounees-321/DSA_problems/tree/master/0125-valid-palindrome) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mounees-321/DSA_problems/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Mounees-321/DSA_problems/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Mounees-321/DSA_problems/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Mounees-321/DSA_problems/tree/master/0912-sort-an-array) |
