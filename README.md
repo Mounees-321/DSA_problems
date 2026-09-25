@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mounees-321/DSA_problems/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Mounees-321/DSA_problems/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/Mounees-321/DSA_problems/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Mounees-321/DSA_problems/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Mounees-321/DSA_problems/tree/master/0367-valid-perfect-square) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mounees-321/DSA_problems/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Mounees-321/DSA_problems/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Mounees-321/DSA_problems/tree/master/0198-house-robber) |
 | [0808-soup-servings](https://github.com/Mounees-321/DSA_problems/tree/master/0808-soup-servings) |
 ## Probability and Statistics
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Mounees-321/DSA_problems/tree/master/0560-subarray-sum-equals-k) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mounees-321/DSA_problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
