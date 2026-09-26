@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mounees-321/DSA_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mounees-321/DSA_problems/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Mounees-321/DSA_problems/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Mounees-321/DSA_problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Mounees-321/DSA_problems/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Mounees-321/DSA_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mounees-321/DSA_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Mounees-321/DSA_problems/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mounees-321/DSA_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Mounees-321/DSA_problems/tree/master/0367-valid-perfect-square) |
 ## Recursion
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mounees-321/DSA_problems/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Mounees-321/DSA_problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
