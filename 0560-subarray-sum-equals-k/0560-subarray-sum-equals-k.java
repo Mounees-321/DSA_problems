@@ -10,8 +10,6 @@ class Solution {
                 run_sum+=nums[j];
                 if(run_sum==k)
                     cnt++;
-                
-                
             }
         }
         return cnt;
