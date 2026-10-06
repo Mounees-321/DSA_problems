@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mounees-321/DSA_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Mounees-321/DSA_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mounees-321/DSA_problems/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mounees-321/DSA_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Mounees-321/DSA_problems/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mounees-321/DSA_problems/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Mounees-321/DSA_problems/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Mounees-321/DSA_problems/tree/master/0171-excel-sheet-column-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mounees-321/DSA_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Mounees-321/DSA_problems/tree/master/0443-string-compression) |
 ## Bit Manipulation
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mounees-321/DSA_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mounees-321/DSA_problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
 | ------- |
