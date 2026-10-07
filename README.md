@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mounees-321/DSA_problems/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mounees-321/DSA_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Mounees-321/DSA_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Mounees-321/DSA_problems/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mounees-321/DSA_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Mounees-321/DSA_problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Mounees-321/DSA_problems/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Mounees-321/DSA_problems/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mounees-321/DSA_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Mounees-321/DSA_problems/tree/master/0171-excel-sheet-column-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mounees-321/DSA_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Mounees-321/DSA_problems/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Mounees-321/DSA_problems/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mounees-321/DSA_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mounees-321/DSA_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mounees-321/DSA_problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Mounees-321/DSA_problems/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
