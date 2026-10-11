@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Mounees-321/DSA_problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Mounees-321/DSA_problems/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Mounees-321/DSA_problems/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mounees-321/DSA_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mounees-321/DSA_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mounees-321/DSA_problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Mounees-321/DSA_problems/tree/master/0198-house-robber) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Mounees-321/DSA_problems/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Mounees-321/DSA_problems/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mounees-321/DSA_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Mounees-321/DSA_problems/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Mounees-321/DSA_problems/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Mounees-321/DSA_problems/tree/master/0367-valid-perfect-square) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mounees-321/DSA_problems/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mounees-321/DSA_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
