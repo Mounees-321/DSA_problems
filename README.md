@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Mounees-321/DSA_problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Mounees-321/DSA_problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Mounees-321/DSA_problems/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Mounees-321/DSA_problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mounees-321/DSA_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mounees-321/DSA_problems/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Mounees-321/DSA_problems/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
