@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mounees-321/DSA_problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mounees-321/DSA_problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Mounees-321/DSA_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Mounees-321/DSA_problems/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/Mounees-321/DSA_problems/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Mounees-321/DSA_problems/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Mounees-321/DSA_problems/tree/master/0912-sort-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Mounees-321/DSA_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Mounees-321/DSA_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Mounees-321/DSA_problems/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/Mounees-321/DSA_problems/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Mounees-321/DSA_problems/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Mounees-321/DSA_problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mounees-321/DSA_problems/tree/master/0231-power-of-two) |
+| [0645-set-mismatch](https://github.com/Mounees-321/DSA_problems/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Mounees-321/DSA_problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Mounees-321/DSA_problems/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Mounees-321/DSA_problems/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Mounees-321/DSA_problems/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/Mounees-321/DSA_problems/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Mounees-321/DSA_problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mounees-321/DSA_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
